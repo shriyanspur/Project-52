@@ -1,0 +1,48 @@
+.head {
+    color: #0077ff;
+    text-align: center;
+    font-size: 30px;
+    margin-top: -45px;
+    margin-bottom: -50px;
+}
+
+body {
+    background-color: #d4efdf;
+    margin-left: 10px;
+}
+
+.intro {
+    font-size: 30px;
+    color: #0077ff;
+    /*color: #b3ff00;*/
+    font-family: 'Calibri';
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10px;
+}
+
+.sm{
+    margin-top: 50px;
+    font-size: 27px;
+    font-style: italic;
+}
+
+.text{
+    font-weight: 600;
+    margin-top: 15px;
+    margin-bottom: -20px;
+    color: #0dce57;
+}
+
+.pics {
+    margin-left: 75px;
+}
+
+.hobHead {
+    color: #ff0000;
+    margin-bottom: -20px;
+    font-style: italic;
+}

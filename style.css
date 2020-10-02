@@ -1,0 +1,59 @@
+h1{
+    color:#ff7f50;
+    font-size: 40px;
+    margin-top: -2px;
+}
+
+h3 {
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+  
+*{
+    border:#ff0000;
+}
+
+body {
+    margin-top: -1px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #d4efdf;
+}
+
+img{
+    border: 5px dashed #000000;
+}
+
+li {
+    font-size: 19px;
+}
+
+p {
+    font-size: 23px;
+}
+
+.Header {
+    background-color: #ffff00;
+    text-align: center;
+}
+
+.grid{
+    margin-left: 35px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
+a:link {
+    color:#ff7f50;
+}
+a:visited {
+    color:#ff7f50;
+}
+a {
+    text-decoration: none
+}
